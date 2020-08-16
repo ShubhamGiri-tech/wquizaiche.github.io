@@ -8,5 +8,5 @@ document.querySelector(".points").innerHTML = points;
 document.querySelector(".timer").innerHTML = user_time;
 
 function last(){
-    location.href = "description.html";
+    location.href = "#";
 }
